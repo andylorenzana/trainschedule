@@ -1,0 +1,18 @@
+.jumbotron {
+    color: #fff;
+    background-position-y: 10%;
+    color: #fff;
+    background-color: #730881;
+}
+
+div.panel-body {
+    /*background-image: url('../images/soultrain.jpg');
+    color: #fff;*/
+}
+
+.btn-primary {
+    background-color: #730881;
+    border-color: #fff;
+    font-weight: bold;
+}
+
